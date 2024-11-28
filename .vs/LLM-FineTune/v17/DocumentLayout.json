@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\VS Projects\\LLM-FineTune\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62E1F44F-8976-4ED7-A482-38EA84B22F90}|LLM-FineTune.pyproj|X:\\VS Projects\\LLM-FineTune\\LLM_FineTune.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{62E1F44F-8976-4ED7-A482-38EA84B22F90}|LLM-FineTune.pyproj|solutionrelative:LLM_FineTune.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LLM_FineTune.py",
+              "DocumentMoniker": "X:\\VS Projects\\LLM-FineTune\\LLM_FineTune.py",
+              "RelativeDocumentMoniker": "LLM_FineTune.py",
+              "ToolTip": "X:\\VS Projects\\LLM-FineTune\\LLM_FineTune.py*",
+              "RelativeToolTip": "LLM_FineTune.py*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-26T21:21:11.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
